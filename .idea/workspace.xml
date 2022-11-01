@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea83c805-74c1-4222-8c71-038463085540" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js1/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="ea83c805-74c1-4222-8c71-038463085540" name="Changes" comment="js1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +45,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667323216407</updated>
-      <workItem from="1667323218495" duration="11058000" />
+      <workItem from="1667323218495" duration="11585000" />
     </task>
+    <task id="LOCAL-00001" summary="js1">
+      <created>1667336946600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667336946600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="js1" />
+    <option name="LAST_COMMIT_MESSAGE" value="js1" />
   </component>
 </project>
