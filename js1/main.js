@@ -21,7 +21,7 @@ let num5 = 2.7
 console.log(num5)
 let num6 =16
 console.log(num6)
-let a = 4<5
+let a = 3<5
 console.log(a)
 let b = 3>5
 console.log(b)
