@@ -23,7 +23,7 @@ let num6 =16
 console.log(num6)
 let a = 4<5
 console.log(a)
-let b = 4>5
+let b = 3>5
 console.log(b)
 
 let firstName = 'Denys'
