@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea83c805-74c1-4222-8c71-038463085540" name="Changes" comment="jssу">
-      <change afterPath="$PROJECT_DIR$/js2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js2/main1.js" afterDir="false" />
+    <list default="true" id="ea83c805-74c1-4222-8c71-038463085540" name="Changes" comment="js2">
+      <change afterPath="$PROJECT_DIR$/js3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js3/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,9 @@
       <workItem from="1667338171022" duration="1109000" />
       <workItem from="1667384630298" duration="3191000" />
       <workItem from="1667453971659" duration="966000" />
-      <workItem from="1667497543694" duration="10887000" />
+      <workItem from="1667497543694" duration="11398000" />
+      <workItem from="1667849432874" duration="2967000" />
+      <workItem from="1668105449574" duration="10440000" />
     </task>
     <task id="LOCAL-00001" summary="js1">
       <created>1667336946600</created>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667388754648</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="js2">
+      <created>1667743632197</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667743632197</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,11 +153,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="js2" />
     <MESSAGE value="js" />
     <MESSAGE value="js1" />
     <MESSAGE value="jss" />
     <MESSAGE value="jssу" />
-    <option name="LAST_COMMIT_MESSAGE" value="jssу" />
+    <MESSAGE value="js2" />
+    <option name="LAST_COMMIT_MESSAGE" value="js2" />
   </component>
 </project>
